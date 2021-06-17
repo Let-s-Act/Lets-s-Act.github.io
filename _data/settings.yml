@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Board
+  site_title: Let's Act PGH
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -8,12 +8,18 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
-      url: '/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'About'
       url: '/about'
+    - title: 'Artists'
+      url: '/meet-the-artists'
+    - title: 'Poetry'
+      url: '/artifacts-1-poetry'
+    - title: 'Conversations'
+      url: '/artifacts-2-conversations'
+    - title: 'Journey'
+      url: '/artifacts-3-the-journey'
+    - title: 'Provocations'
+      url: '/questions-provocations'
     - title: 'Contact'
       url: '/contact'
 
