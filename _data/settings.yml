@@ -8,8 +8,6 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'About'
-      url: '/about'
     - title: 'Artists'
       url: '/meet-the-artists'
     - title: 'Poetry'
