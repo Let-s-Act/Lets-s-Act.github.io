@@ -21,8 +21,6 @@ featured_image: '/images/Poetry.jpg'
 ##### Control over what they hear
 ##### Power is control.
 
-<img src="/images/Kat.jpg">
-
 ### Passed the Class, by Kat and shakyna
 
 ##### Kat: 
@@ -85,7 +83,67 @@ featured_image: '/images/Poetry.jpg'
 ##### To fall in line when the top dog comes by
 ##### Teaching us to be employees instead of bosses 
 
-<img src="/images/Kat.jpg">
+### Eyes, by Javier
 
-<img src="/images/shakyna.jpeg">
+#### Eyes
+#### Eyes are a confusing thing
+#### Always darting left and right
+#### What do they mean
+#### What’s behind them
+#### Eyes cut more than words
+#### Worse than rumors eyes stare directly at you
+#### Brown pupil, brown pupil, brown pupil, blue
+#### Though words hurt too
+#### Eyes are just more upfront
+#### How can something so small be so confusing
+#### Is something on my face
+#### Is it my face itself
+#### Are you just staring into the distance
+#### Don’t be quick to judge, it’s not you there staring at
+#### If you stare back they’re the one uncomfortable
+#### It gets better the more time you take with them
+#### Though are you just one of the good ones
+#### Brown pupil, brown pupil, blue 
+#### Show off be better
+#### you’re a representative
+#### Answer the questions
+#### Ignore the eyes
+#### Be better 
+#### Don’t forget where you come from
+#### Why can’t you just blend in
+#### Brown pupil, brown pupil, blue
+#### If you blend in are you forgetting where you come from
+#### Screw it I’m done
+#### brown pupil, brown pupil, brown
+
+### Do Your Homework, by Javier
+#### You have to get good grades
+#### though grades don’t matter
+#### We just want to make sure you understand the curriculum
+#### But don’t get bad grades
+#### X Y Z
+#### Solve for x
+#### Where x is you
+#### What are you worth
+#### Well your tuition is worth a lot so don’t waste it
+#### Talk to your friends at lunch laugh have fun
+#### Though don’t have too much
+#### We wouldn’t want to be disruptive
+#### X equals Intelligence?
+#### Don’t finish the test too early
+#### Wait till the others are done
+#### Be the best but fit in
+#### We care for you
+#### Don’t bully
+#### Report bullying
+#### Though when you do
+#### we’ll make sure to talk to them and than move on
+#### Apply yourself
+#### X equals hard work?
+#### Be the best you
+#### Express yourself
+#### That's why you do art class
+#### X equals creativity?
+#### Welp bells rung go home and do it all again tomorrow.
+
 

@@ -20,7 +20,7 @@ featured_image: '/images/Group-Pic.jpg'
 <img src="/images/kat.jpg">
 
 ### Kat 
-#### abcd
+#### My name is Katherine Bruce I am 17 years old. I am a singer, actress, and dancer. Ive been in musical theater/acting since I was 11 and just got involved in song writing in the beginning of my junior year. I am now a senior at Taylor Alderdice Highschool, after highschool I intend on attending an HBCU and to persue my career in acting.
 
 <img src="/images/javier.jpg">
 
