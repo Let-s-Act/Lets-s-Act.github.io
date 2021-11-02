@@ -17,7 +17,7 @@ featured_image: '/images/Group-Pic.jpg'
 ### Aidan Nicholas
 #### My name is Aidan Nicholas and I am a sophomore enrolled at Catholic High School. I’m extremely invested in talking about domestic issues pertaining to the complaints of citizens and students about their environment. With this project I hope to bring my skills of introspection and evaluation to the forefront of these systemic social issues.
 
-<img src="/Lets-s-Act.github.io/images/kat.jpg">
+<img src="/Lets-s-Act.github.io/images/Kat.jpg">
 
 ### Kat 
 #### My name is Katherine Bruce I am 17 years old. I am a singer, actress, and dancer. Ive been in musical theater/acting since I was 11 and just got involved in song writing in the beginning of my junior year. I am now a senior at Taylor Alderdice Highschool, after highschool I intend on attending an HBCU and to persue my career in acting.
