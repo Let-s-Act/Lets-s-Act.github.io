@@ -9,3 +9,5 @@ featured_image: '/images/About.jpg'
 ![](/images/About.jpg)
 
 ## About
+
+### Let's Act PGH started right before the pandemic and went through multiple iterations before becoming the website that you are exploring today. We originally came up with the idea to do a Theatre of the Oppressed project focused on the education system with youth after doing similar work with educators starting in 2017.
