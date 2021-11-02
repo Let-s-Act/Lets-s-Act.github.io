@@ -11,6 +11,8 @@ featured_image: '/images/The Journey.jpg'
 
 ## Check-Ins
 
+##### At the start of every session, we took some time to check in with one another to see how everyone was feeling that day. We offered a variety of options to gather this information and used Jamboard as a visual aid. 
+
 <img src="/images/how are you feeling.jpg">
 
 <img src="/images/really doing.jpg">
@@ -24,6 +26,8 @@ featured_image: '/images/The Journey.jpg'
 
 
 ## Questions, Activities, and Games
+
+##### Our journey was not linear or straightforward, but we did emphasize inquiry, curiosity, and play. Here are just some of the questions, activities, and games that we experienced together, captured via Jamboard.
 
 <img src="/images/red lineage.jpg">
 
