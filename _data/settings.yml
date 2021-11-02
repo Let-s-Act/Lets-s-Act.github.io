@@ -8,15 +8,17 @@ header_settings:
 
 menu_settings:
   menu_items:
+    - title: 'About'
+      url: '/project/1-about'
     - title: 'Artists'
-      url: '/meet-the-artists'
+      url: '/project/2-meet-the-artists'
     - title: 'Poetry'
-      url: '/artifacts-1-poetry'
+      url: '/project/3-artifacts-1-poetry'
     - title: 'Conversations'
-      url: '/artifacts-2-conversations'
+      url: '/project/4-artifacts-2-conversations'
+    - title: 'Questions and Provocations'
+      url: '/project/6-questions-provocations'
     - title: 'Journey'
-      url: '/artifacts-3-the-journey'
-    - title: 'Provocations'
       url: '/questions-provocations'
     - title: 'Contact'
       url: '/contact'
