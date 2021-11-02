@@ -12,7 +12,8 @@ featured_image: '/images/Conversations.jpeg'
 
 <div class="gallery" data-columns="3">
     <img src="/images/African American History.jpeg">
-    <img src="/images/life.jpeg">    <img src="/images/stand out.jpeg">    
+    <img src="/images/life.jpeg">    
+    <img src="/images/stand out.jpeg">    
     <img src="/images/Uninteresting.jpeg">    
     <img src="/images/helping.jpeg"> 
     <img src="/images/colony project.jpeg">
@@ -32,7 +33,8 @@ featured_image: '/images/Conversations.jpeg'
     <img src="/images/advocacy.jpeg">
     <img src="/images/childlike.jpeg">
     <img src="/images/private schools.jpeg">
-    <img src="/images/power.jpeg">  <img src="/images/tough.jpeg">
+    <img src="/images/power.jpeg">  
+    <img src="/images/tough.jpeg">
     <img src="/images/coolest.jpeg">
     <img src="/images/bad teacher.jpeg">
 
