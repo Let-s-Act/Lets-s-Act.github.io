@@ -6,7 +6,7 @@ description: Board is a stylish full-width masonry grid theme. Made for designer
 featured_image: '/images/About.jpg'
 ---
 
-![](/images/About.jpg)
+![](/Lets-s-Act.github.io/images/About.jpg)
 
 ## About
 

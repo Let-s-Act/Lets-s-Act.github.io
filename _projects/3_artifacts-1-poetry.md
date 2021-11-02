@@ -6,7 +6,7 @@ description: Board is a stylish full-width masonry grid theme. Made for designer
 featured_image: '/images/Poetry.jpg'
 ---
 
-![](/images/Poetry.jpg)
+![](/Lets-s-Act.github.io/images/Poetry.jpg)
 
 ## Poetry
 
