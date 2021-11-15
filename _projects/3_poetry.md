@@ -10,7 +10,7 @@ featured_image: '/images/Poetry.jpg'
 
 ## Poetry
 
-### Power, by Kat
+### *Power, by Kat*
 
 ###### The concept of power is a powerful thing
 ###### Power over people because we care more about the materialistic things
@@ -21,9 +21,9 @@ featured_image: '/images/Poetry.jpg'
 ###### Control over what they hear
 ###### Power is control.
 
-### Passed the Class, by Kat and shakyna
+### *Passed the Class, by Kat and shakyna*
 
-##### Kat: 
+##### *Kat:* 
 ###### The education system is failing kids
 ###### Teaching us how to get good grades
 ###### If you don’t have straight A’s that makes you a failure
@@ -56,7 +56,7 @@ featured_image: '/images/Poetry.jpg'
 ###### Punishment...
 ###### But it’s okay cause I passed the class right?
 
-##### shak:
+##### *shak:*
 ###### Report to cell 101 and 2:00 on the dot
 ######  dont be late 
 ###### Speak when spoken to no more no less
@@ -82,7 +82,7 @@ featured_image: '/images/Poetry.jpg'
 ###### To fall in line when the top dog comes by
 ###### Teaching us to be employees instead of bosses 
 
-### Eyes, by Javier
+### *Eyes, by Javier*
 
 ##### Eyes
 ##### Eyes are a confusing thing
@@ -115,7 +115,7 @@ featured_image: '/images/Poetry.jpg'
 ##### Screw it I’m done
 ##### brown pupil, brown pupil, brown
 
-### Do Your Homework, by Javier
+### *Do Your Homework, by Javier*
 ##### You have to get good grades
 ##### though grades don’t matter
 ##### We just want to make sure you understand the curriculum
