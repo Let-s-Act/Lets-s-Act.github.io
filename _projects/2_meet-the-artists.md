@@ -8,9 +8,7 @@ featured_image: '/images/Group-Pic.jpg'
 
 ![](/Lets-s-Act.github.io/images/Group-Pic.jpg)
 
-## Meet the Artists
-
-### We had an amazing team of artist/activist/students who shared their creativity and wisdom with us - and now you! Learn more about them below. 
+### Let's Act Student Experts
 
 <img src="/Lets-s-Act.github.io/images/Aidan.jpeg">
 
