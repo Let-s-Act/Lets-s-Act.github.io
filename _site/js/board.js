@@ -161,7 +161,7 @@
 
 		// If there's a gallery
 		$('.gallery').each( function() {
-
+			
 			// Get gallery element
 			var $this = $(this);
 
@@ -177,12 +177,12 @@
 			$this.append('<div class="gallery__wrap"></div>');
 
 			// Add images to container
-			$this.children('img').each( function() {
+			$this.children('.item').each( function() {
 				$(this).appendTo('#' + thisId + ' .gallery__wrap');
 			});
 
 			// Wrap images
-			$this.find('.gallery__wrap img').each( function() {
+			$this.find('.gallery__wrap .item').each( function() {
 				var imageSrc = $(this).attr('src');
 				$(this).wrapAll('<div class="gallery__item"><a href="' + imageSrc + '" class="gallery__item__link"></div></div>').appendTo();
 			});
@@ -274,9 +274,9 @@
 					});
 							
 					// Init fluidbox
-					$this.find('.gallery__item__link').fluidbox({
-						loader: true
-					});
+					//$this.find('.gallery__item__link').fluidbox({
+				//		loader: true
+				// 	});
 
 				}
 
