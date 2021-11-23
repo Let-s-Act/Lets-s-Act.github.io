@@ -21,5 +21,5 @@ featured_image: '/images/About.jpg'
 
 <img src="/Lets-s-Act.github.io/images/TRCF.jpg">
 
-<img src="/Lets-s-Act.github.io/images/Remake Learning.png">
+<img src="/Lets-s-Act.github.io/images/Remake_Learning.png">
 
