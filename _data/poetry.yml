@@ -65,12 +65,15 @@ conversations:
   - image: "private schools.jpeg"
     audio: ""
     title: "Private Schools"
-  - image: "private schools.jpeg"
+  - image: "power.jpeg"
     audio: ""
-    title: "Private Schools"
-   # <img src="/Lets-s-Act.github.io/images/childlike.jpeg">
-   # <img src="/Lets-s-Act.github.io/images/private schools.jpeg">
-   # <img src="/Lets-s-Act.github.io/images/power.jpeg">  
-   # <img src="/Lets-s-Act.github.io/images/tough.jpeg">
-   # <img src="/Lets-s-Act.github.io/images/coolest.jpeg">
-   # <img src="/Lets-s-Act.github.io/images/bad teacher.jpeg">
+    title: "Power"
+  - image: "tough.jpeg"
+    audio: ""
+    title: "Tough"
+  - image: "coolest.jpeg"
+    audio: ""
+    title: "Coolest"
+  - image: "bad teacher.jpeg"
+    audio: ""
+    title: "Bad Teacher"
