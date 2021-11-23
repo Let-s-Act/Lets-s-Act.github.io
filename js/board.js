@@ -161,7 +161,7 @@
 
 		// If there's a gallery
 		$('.gallery').each( function() {
-
+			
 			// Get gallery element
 			var $this = $(this);
 
@@ -274,9 +274,9 @@
 					});
 							
 					// Init fluidbox
-					$this.find('.gallery__item__link').fluidbox({
-						loader: true
-					});
+					//$this.find('.gallery__item__link').fluidbox({
+				//		loader: true
+				// 	});
 
 				}
 
