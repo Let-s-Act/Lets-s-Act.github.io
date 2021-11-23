@@ -274,9 +274,9 @@
 					});
 							
 					// Init fluidbox
-					//$this.find('.gallery__item__link').fluidbox({
-				//		loader: true
-				// 	});
+					$this.find('.gallery__item__link').fluidbox({
+						loader: true
+					});
 
 				}
 
