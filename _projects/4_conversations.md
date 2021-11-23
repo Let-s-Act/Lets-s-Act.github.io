@@ -13,7 +13,7 @@ featured_image: '/images/Conversations.jpeg'
 <div class="gallery" data-columns="3">
     {% for convo in site.data.poetry.conversations %} 
         <div class="item">
-            <img src="/Lets-s-Act.github.io/{{convo.image}}" alt="{{ convo.title }}"/>
+            <img src="https://let-s-act.github.io/Lets-s-Act.github.io/images/{{convo.image}}" alt="{{ convo.title }}"/>
             <audio src="https://lets-act.s3.us-east-2.amazonaws.com/{{convo.audio}}" type="audio/mpeg" />
         </div>
     {% endfor %}
