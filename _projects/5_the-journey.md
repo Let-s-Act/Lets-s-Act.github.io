@@ -1,5 +1,5 @@
 ---
-title: 'Artifacts: The Journey'
+title: 'The Journey'
 subtitle: ''
 date: 2018-06-30 00:00:00
 description: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
@@ -11,7 +11,7 @@ featured_image: '/images/The Journey.jpg'
 
 ## Check-Ins
 
-##### At the start of every session, we took some time to check in with one another to see how everyone was feeling that day. We offered a variety of options to gather this information and used Jamboard as a visual aid. 
+##### At the start of every session, we took some time to check in with one another to see how everyone was feeling that day. We offered a variety of options to gather this information and used Jamboard as a visual aid. These check-ins often set the tone for the rest of our time together.  
 
 <img src="/Lets-s-Act.github.io/images/how are you feeling.jpg">
 
@@ -54,6 +54,8 @@ featured_image: '/images/The Journey.jpg'
 
 
 ## Bringing it all together
+
+##### Our "final product" was a truly collaborative effort as we considered who our audience would be, how to structure the content, our guiding questions, and how to present it all to the public.
 
 <img src="/Lets-s-Act.github.io/images/who is this for.jpg">
 
